@@ -7,10 +7,10 @@
   </a>
   <br />
   <div align="center">
-    <a href="https://frvgs.com">Website</a> |
-    <a href="https://discord.gg/wHhg6Zgbsa">Discord</a> |
-    <a href="https://forum.cfx.re/u/frvgs">Forum</a> |
-    <a href="https://frvgs.com/docs">Docs</a>
+    <a href="">Website</a> |
+    <a href="https://discord.gg/rkN4UusV">Discord</a> |
+    <a href="">Forum</a> |
+    <a href="">Docs</a>
   </div>
 </div>
 
