@@ -25,9 +25,9 @@
 
 </div>
 
-[![Image Preview](https://cdn.frvgs.com/core_preview/notify_preview.png)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
+[![Image Preview](https://media.discordapp.net/attachments/1175447569778876476/1176430010064707685/image.png?ex=656ed6d3&is=655c61d3&hm=85befa488e091fe9176a2a492a0947f2d6122d2bf3cfca5c83750fbc4edc6b99&=&format=webp)
 
-[![Video Preview](https://cdn.frvgs.com/youtube/preview_thumb_new.jpg)](https://www.youtube.com/watch?v=1A6tiWjiMk8)
+[![Video Preview](https://cdn.discordapp.com/attachments/1175447569778876476/1176430016431652944/FiveM_by_Cfx.re_-_eXo_Dev___Built_V1_2023-11-21_13-21-11.mp4?ex=656ed6d4&is=655c61d4&hm=778ca2d174c8c5eb266db380721832fc8dd177e750379d5a822f422a9b944cbd&)
 
 ## ✨ Features
 
@@ -35,7 +35,7 @@
 - 📐 Adjusted the notifications for better visibility on larger screens.
 - 🖋️ Modified fonts to improve legibility on high-resolution displays.
 - 🎨 Redesigned notifications now come with smooth animations.
-- 🌅 Included 30+ gradients from which you can choose to change the main theme.
+
   
 ## 📦 Installation
 
@@ -49,4 +49,4 @@ You can then simply replace the `esx_notify/nui/style.css` file with the one fro
 
 ## 🛟 Support
 
-Join the [discord](https://discord.gg/wHhg6Zgbsa)  if you need support or custom UI design for your server.
+Join the [discord](https://discord.gg/rkN4UusV)  if you need support or custom UI design for your server.
