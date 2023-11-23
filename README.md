@@ -25,9 +25,9 @@
 
 </div>
 
-[![Image Preview](https://media.discordapp.net/attachments/1175447569778876476/1176430010064707685/image.png?ex=656ed6d3&is=655c61d3&hm=85befa488e091fe9176a2a492a0947f2d6122d2bf3cfca5c83750fbc4edc6b99&=&format=webp)
+[![Image Preview]()
 
-[![Video Preview](https://cdn.discordapp.com/attachments/1175447569778876476/1176430016431652944/FiveM_by_Cfx.re_-_eXo_Dev___Built_V1_2023-11-21_13-21-11.mp4?ex=656ed6d4&is=655c61d4&hm=778ca2d174c8c5eb266db380721832fc8dd177e750379d5a822f422a9b944cbd&)
+[![Video Preview]()
 
 ## ✨ Features
 
