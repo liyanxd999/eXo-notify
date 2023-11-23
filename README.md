@@ -3,7 +3,7 @@
 
 <div align="center" style="margin: 30px;">
   <a href="https://frvgs.com/">
-    <img src="https://media.discordapp.net/attachments/1175445185006678067/1177069701042552862/ATCCSC4cnHuVAAAAAElFTkSuQmCC.png?ex=65712a95&is=655eb595&hm=7e27faf4799b558f325b30b717b7ce561ef53f26a5939dc4f2d026b4a8f5edb1&=&format=webp" align="center" />
+    <img src="Soon" align="center" />
   </a>
   <br />
   <div align="center">
