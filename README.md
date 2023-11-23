@@ -25,7 +25,7 @@
 
 </div>
 
-[![Image Preview]()
+[![Image Preview](https://media.discordapp.net/attachments/1175447569778876476/1176430010064707685/image.png?ex=656ed6d3&is=655c61d3&hm=85befa488e091fe9176a2a492a0947f2d6122d2bf3cfca5c83750fbc4edc6b99&=&format=webp)
 
 [![Video Preview]()
 
